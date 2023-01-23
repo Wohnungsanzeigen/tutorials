@@ -2,11 +2,11 @@
 
 How to Create a maven project structure. A structure with flat modules and modules with submodules.
 
-This tutorial shows a example with a three-level module hierarchy.
+This tutorial shows an example with a three-level module hierarchy.
 
-## Tutorial LAB01 
+## lab01-maven-project
 
-Lab01-Project: A maven example with submodule structure.
+Tutorial Project: A maven example with submodule structure.
 
 ### module-3rd-party-src
 
