@@ -6,7 +6,7 @@
 
     <parent>
         <groupId>de.wohnungsanzeigen</groupId>
-        <artifactId>tutorials-lab01</artifactId>
+        <artifactId>lab01-maven-project</artifactId>
         <version>${revision}</version>
     </parent>
     <packaging>pom</packaging>
@@ -20,7 +20,6 @@
         <module>lab01-submodule-03</module>
     </modules>
 
-    <groupId>de.wohnungsanzeigen</groupId>
     <artifactId>module-3rd-party-src</artifactId>
     <version>${revision}</version>
 

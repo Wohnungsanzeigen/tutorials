@@ -7,7 +7,7 @@
     <name>WohnungsanzeigenDE::LAB01</name>
 
     <groupId>de.wohnungsanzeigen</groupId>
-    <artifactId>tutorials-lab01</artifactId>
+    <artifactId>lab01-maven-project</artifactId>
     <version>${revision}</version>
 
     <packaging>pom</packaging>
